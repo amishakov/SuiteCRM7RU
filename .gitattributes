@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 1.jpg filter=lfs diff=lfs merge=lfs -text lockable
-=======
-1.jpg filter=lfs diff=lfs merge=lfs -text
->>>>>>> 950676516fcddc4f8fdda1572284e159f503d348
 lock.txt filter=lfs diff=lfs merge=lfs -text lockable
