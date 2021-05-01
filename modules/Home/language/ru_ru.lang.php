@@ -225,6 +225,9 @@ $mod_strings = array(
 'LBL_REPEAT_UNTIL' => 'Повторять до',
 'LBL_REPEAT_COUNT' => 'Число повторов',
 'LBL_REPEAT_LIMIT_ERROR' => 'Вы пытаетесь создать более $limit встреч.',
+'LBL_EDIT_ALL_RECURRENCES' => 'Править, включая повторы',
+'LBL_REMOVE_ALL_RECURRENCES' => 'Удалить, включая повторы',
+'LBL_CONFIRM_REMOVE' => 'Вы действительно хотите удалить эту запись?',
 
 //Events
 'LNK_EVENT' => 'Событие',
@@ -239,6 +242,8 @@ $mod_strings = array(
 'LBL_STATUS' => 'Статус: ',
 'LBL_DESCRIPTION' => 'Описание: ',
 //End Events
+
+'LNK_TASK_VIEW' => 'Просмотр задачи',
 
 'LBL_ELASTIC_SEARCH_EXCEPTION_SEARCH_INVALID_REQUEST' => 'В процессе поиска произошла ошибка. Проверьте синтаксис поискового запроса.',
 'LBL_ELASTIC_SEARCH_EXCEPTION_SEARCH_ENGINE_NOT_FOUND' => 'Поисковый движок не обнаружен. Попробуйте выполнить поиск ещё раз.',
